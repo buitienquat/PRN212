@@ -1,0 +1,14 @@
+D:\PRN212\ToanTu\obj\Debug\net8.0\ToanTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\ToanTu\obj\Debug\net8.0\ToanTu.AssemblyInfoInputs.cache
+D:\PRN212\ToanTu\obj\Debug\net8.0\ToanTu.AssemblyInfo.cs
+D:\PRN212\ToanTu\obj\Debug\net8.0\ToanTu.csproj.CoreCompileInputs.cache
+D:\PRN212\ToanTu\bin\Debug\net8.0\ToanTu.exe
+D:\PRN212\ToanTu\bin\Debug\net8.0\ToanTu.deps.json
+D:\PRN212\ToanTu\bin\Debug\net8.0\ToanTu.runtimeconfig.json
+D:\PRN212\ToanTu\bin\Debug\net8.0\ToanTu.dll
+D:\PRN212\ToanTu\bin\Debug\net8.0\ToanTu.pdb
+D:\PRN212\ToanTu\obj\Debug\net8.0\ToanTu.dll
+D:\PRN212\ToanTu\obj\Debug\net8.0\refint\ToanTu.dll
+D:\PRN212\ToanTu\obj\Debug\net8.0\ToanTu.pdb
+D:\PRN212\ToanTu\obj\Debug\net8.0\ToanTu.genruntimeconfig.cache
+D:\PRN212\ToanTu\obj\Debug\net8.0\ref\ToanTu.dll

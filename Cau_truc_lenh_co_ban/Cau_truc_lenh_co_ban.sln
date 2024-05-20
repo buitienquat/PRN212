@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cau_truc_lenh_co_ban", "Cau_truc_lenh_co_ban.csproj", "{1CD62E22-3C79-405E-B8E9-EEDEC60C2FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD62E22-3C79-405E-B8E9-EEDEC60C2FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD62E22-3C79-405E-B8E9-EEDEC60C2FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD62E22-3C79-405E-B8E9-EEDEC60C2FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD62E22-3C79-405E-B8E9-EEDEC60C2FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {285D360D-74EB-4DD2-982C-B9785F8045C6}
+	EndGlobalSection
+EndGlobal

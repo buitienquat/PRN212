@@ -1,0 +1,14 @@
+D:\PRN212\b1\bin\Debug\net8.0\b1.exe
+D:\PRN212\b1\bin\Debug\net8.0\b1.deps.json
+D:\PRN212\b1\bin\Debug\net8.0\b1.runtimeconfig.json
+D:\PRN212\b1\bin\Debug\net8.0\b1.dll
+D:\PRN212\b1\bin\Debug\net8.0\b1.pdb
+D:\PRN212\b1\obj\Debug\net8.0\b1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\b1\obj\Debug\net8.0\b1.AssemblyInfoInputs.cache
+D:\PRN212\b1\obj\Debug\net8.0\b1.AssemblyInfo.cs
+D:\PRN212\b1\obj\Debug\net8.0\b1.csproj.CoreCompileInputs.cache
+D:\PRN212\b1\obj\Debug\net8.0\b1.dll
+D:\PRN212\b1\obj\Debug\net8.0\refint\b1.dll
+D:\PRN212\b1\obj\Debug\net8.0\b1.pdb
+D:\PRN212\b1\obj\Debug\net8.0\b1.genruntimeconfig.cache
+D:\PRN212\b1\obj\Debug\net8.0\ref\b1.dll

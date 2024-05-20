@@ -1,0 +1,14 @@
+D:\PRN212\OOPDemo2App\obj\Debug\net8.0\OOPDemo2App.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\OOPDemo2App\obj\Debug\net8.0\OOPDemo2App.AssemblyInfoInputs.cache
+D:\PRN212\OOPDemo2App\obj\Debug\net8.0\OOPDemo2App.AssemblyInfo.cs
+D:\PRN212\OOPDemo2App\obj\Debug\net8.0\OOPDemo2App.csproj.CoreCompileInputs.cache
+D:\PRN212\OOPDemo2App\bin\Debug\net8.0\OOPDemo2App.exe
+D:\PRN212\OOPDemo2App\bin\Debug\net8.0\OOPDemo2App.deps.json
+D:\PRN212\OOPDemo2App\bin\Debug\net8.0\OOPDemo2App.runtimeconfig.json
+D:\PRN212\OOPDemo2App\bin\Debug\net8.0\OOPDemo2App.dll
+D:\PRN212\OOPDemo2App\bin\Debug\net8.0\OOPDemo2App.pdb
+D:\PRN212\OOPDemo2App\obj\Debug\net8.0\OOPDemo2App.dll
+D:\PRN212\OOPDemo2App\obj\Debug\net8.0\refint\OOPDemo2App.dll
+D:\PRN212\OOPDemo2App\obj\Debug\net8.0\OOPDemo2App.pdb
+D:\PRN212\OOPDemo2App\obj\Debug\net8.0\OOPDemo2App.genruntimeconfig.cache
+D:\PRN212\OOPDemo2App\obj\Debug\net8.0\ref\OOPDemo2App.dll

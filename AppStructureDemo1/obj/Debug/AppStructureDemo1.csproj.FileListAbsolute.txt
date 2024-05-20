@@ -1,0 +1,7 @@
+D:\PRN212\AppStructureDemo1\bin\Debug\AppStructureDemo1.exe.config
+D:\PRN212\AppStructureDemo1\bin\Debug\AppStructureDemo1.exe
+D:\PRN212\AppStructureDemo1\bin\Debug\AppStructureDemo1.pdb
+D:\PRN212\AppStructureDemo1\obj\Debug\AppStructureDemo1.csproj.AssemblyReference.cache
+D:\PRN212\AppStructureDemo1\obj\Debug\AppStructureDemo1.csproj.CoreCompileInputs.cache
+D:\PRN212\AppStructureDemo1\obj\Debug\AppStructureDemo1.exe
+D:\PRN212\AppStructureDemo1\obj\Debug\AppStructureDemo1.pdb

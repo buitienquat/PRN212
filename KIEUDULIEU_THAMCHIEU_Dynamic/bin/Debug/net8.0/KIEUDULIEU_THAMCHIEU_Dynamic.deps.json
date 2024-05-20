@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "KIEUDULIEU_THAMCHIEU_Dynamic/1.0.0": {
+        "runtime": {
+          "KIEUDULIEU_THAMCHIEU_Dynamic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KIEUDULIEU_THAMCHIEU_Dynamic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

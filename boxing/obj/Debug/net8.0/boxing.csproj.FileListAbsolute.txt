@@ -1,0 +1,14 @@
+D:\PRN212\boxing\obj\Debug\net8.0\boxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\boxing\obj\Debug\net8.0\boxing.AssemblyInfoInputs.cache
+D:\PRN212\boxing\obj\Debug\net8.0\boxing.AssemblyInfo.cs
+D:\PRN212\boxing\obj\Debug\net8.0\boxing.csproj.CoreCompileInputs.cache
+D:\PRN212\boxing\bin\Debug\net8.0\boxing.exe
+D:\PRN212\boxing\bin\Debug\net8.0\boxing.deps.json
+D:\PRN212\boxing\bin\Debug\net8.0\boxing.runtimeconfig.json
+D:\PRN212\boxing\bin\Debug\net8.0\boxing.dll
+D:\PRN212\boxing\bin\Debug\net8.0\boxing.pdb
+D:\PRN212\boxing\obj\Debug\net8.0\boxing.dll
+D:\PRN212\boxing\obj\Debug\net8.0\refint\boxing.dll
+D:\PRN212\boxing\obj\Debug\net8.0\boxing.pdb
+D:\PRN212\boxing\obj\Debug\net8.0\boxing.genruntimeconfig.cache
+D:\PRN212\boxing\obj\Debug\net8.0\ref\boxing.dll

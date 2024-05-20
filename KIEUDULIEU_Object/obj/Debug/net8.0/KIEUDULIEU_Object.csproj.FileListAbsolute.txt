@@ -1,0 +1,15 @@
+D:\PRN212\KIEUDULIEU_Object\bin\Debug\net8.0\KIEUDULIEU_Object.exe
+D:\PRN212\KIEUDULIEU_Object\bin\Debug\net8.0\KIEUDULIEU_Object.deps.json
+D:\PRN212\KIEUDULIEU_Object\bin\Debug\net8.0\KIEUDULIEU_Object.runtimeconfig.json
+D:\PRN212\KIEUDULIEU_Object\bin\Debug\net8.0\KIEUDULIEU_Object.dll
+D:\PRN212\KIEUDULIEU_Object\bin\Debug\net8.0\KIEUDULIEU_Object.pdb
+D:\PRN212\KIEUDULIEU_Object\obj\Debug\net8.0\KIEUDULIEU_Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\KIEUDULIEU_Object\obj\Debug\net8.0\KIEUDULIEU_Object.AssemblyInfoInputs.cache
+D:\PRN212\KIEUDULIEU_Object\obj\Debug\net8.0\KIEUDULIEU_Object.AssemblyInfo.cs
+D:\PRN212\KIEUDULIEU_Object\obj\Debug\net8.0\KIEUDULIEU_Object.csproj.CoreCompileInputs.cache
+D:\PRN212\KIEUDULIEU_Object\obj\Debug\net8.0\KIEUDULIEU_Object.sourcelink.json
+D:\PRN212\KIEUDULIEU_Object\obj\Debug\net8.0\KIEUDULIEU_Object.dll
+D:\PRN212\KIEUDULIEU_Object\obj\Debug\net8.0\refint\KIEUDULIEU_Object.dll
+D:\PRN212\KIEUDULIEU_Object\obj\Debug\net8.0\KIEUDULIEU_Object.pdb
+D:\PRN212\KIEUDULIEU_Object\obj\Debug\net8.0\KIEUDULIEU_Object.genruntimeconfig.cache
+D:\PRN212\KIEUDULIEU_Object\obj\Debug\net8.0\ref\KIEUDULIEU_Object.dll

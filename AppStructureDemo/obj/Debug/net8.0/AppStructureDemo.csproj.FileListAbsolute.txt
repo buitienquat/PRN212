@@ -1,0 +1,14 @@
+D:\PRN212\AppStructureDemo\bin\Debug\net8.0\AppStructureDemo.exe
+D:\PRN212\AppStructureDemo\bin\Debug\net8.0\AppStructureDemo.deps.json
+D:\PRN212\AppStructureDemo\bin\Debug\net8.0\AppStructureDemo.runtimeconfig.json
+D:\PRN212\AppStructureDemo\bin\Debug\net8.0\AppStructureDemo.dll
+D:\PRN212\AppStructureDemo\bin\Debug\net8.0\AppStructureDemo.pdb
+D:\PRN212\AppStructureDemo\obj\Debug\net8.0\AppStructureDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\AppStructureDemo\obj\Debug\net8.0\AppStructureDemo.AssemblyInfoInputs.cache
+D:\PRN212\AppStructureDemo\obj\Debug\net8.0\AppStructureDemo.AssemblyInfo.cs
+D:\PRN212\AppStructureDemo\obj\Debug\net8.0\AppStructureDemo.csproj.CoreCompileInputs.cache
+D:\PRN212\AppStructureDemo\obj\Debug\net8.0\AppStructureDemo.dll
+D:\PRN212\AppStructureDemo\obj\Debug\net8.0\refint\AppStructureDemo.dll
+D:\PRN212\AppStructureDemo\obj\Debug\net8.0\AppStructureDemo.pdb
+D:\PRN212\AppStructureDemo\obj\Debug\net8.0\AppStructureDemo.genruntimeconfig.cache
+D:\PRN212\AppStructureDemo\obj\Debug\net8.0\ref\AppStructureDemo.dll

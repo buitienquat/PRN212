@@ -1,0 +1,14 @@
+D:\PRN212\kieu_du_lieu\bin\Debug\net8.0\kieu_du_lieu.exe
+D:\PRN212\kieu_du_lieu\bin\Debug\net8.0\kieu_du_lieu.deps.json
+D:\PRN212\kieu_du_lieu\bin\Debug\net8.0\kieu_du_lieu.runtimeconfig.json
+D:\PRN212\kieu_du_lieu\bin\Debug\net8.0\kieu_du_lieu.dll
+D:\PRN212\kieu_du_lieu\bin\Debug\net8.0\kieu_du_lieu.pdb
+D:\PRN212\kieu_du_lieu\obj\Debug\net8.0\kieu_du_lieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\kieu_du_lieu\obj\Debug\net8.0\kieu_du_lieu.AssemblyInfoInputs.cache
+D:\PRN212\kieu_du_lieu\obj\Debug\net8.0\kieu_du_lieu.AssemblyInfo.cs
+D:\PRN212\kieu_du_lieu\obj\Debug\net8.0\kieu_du_lieu.csproj.CoreCompileInputs.cache
+D:\PRN212\kieu_du_lieu\obj\Debug\net8.0\kieu_du_lieu.dll
+D:\PRN212\kieu_du_lieu\obj\Debug\net8.0\refint\kieu_du_lieu.dll
+D:\PRN212\kieu_du_lieu\obj\Debug\net8.0\kieu_du_lieu.pdb
+D:\PRN212\kieu_du_lieu\obj\Debug\net8.0\kieu_du_lieu.genruntimeconfig.cache
+D:\PRN212\kieu_du_lieu\obj\Debug\net8.0\ref\kieu_du_lieu.dll

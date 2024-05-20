@@ -1,0 +1,14 @@
+D:\PRN212\Demo31App\bin\Debug\net8.0\Demo31App.exe
+D:\PRN212\Demo31App\bin\Debug\net8.0\Demo31App.deps.json
+D:\PRN212\Demo31App\bin\Debug\net8.0\Demo31App.runtimeconfig.json
+D:\PRN212\Demo31App\bin\Debug\net8.0\Demo31App.dll
+D:\PRN212\Demo31App\bin\Debug\net8.0\Demo31App.pdb
+D:\PRN212\Demo31App\obj\Debug\net8.0\Demo31App.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Demo31App\obj\Debug\net8.0\Demo31App.AssemblyInfoInputs.cache
+D:\PRN212\Demo31App\obj\Debug\net8.0\Demo31App.AssemblyInfo.cs
+D:\PRN212\Demo31App\obj\Debug\net8.0\Demo31App.csproj.CoreCompileInputs.cache
+D:\PRN212\Demo31App\obj\Debug\net8.0\Demo31App.dll
+D:\PRN212\Demo31App\obj\Debug\net8.0\refint\Demo31App.dll
+D:\PRN212\Demo31App\obj\Debug\net8.0\Demo31App.pdb
+D:\PRN212\Demo31App\obj\Debug\net8.0\Demo31App.genruntimeconfig.cache
+D:\PRN212\Demo31App\obj\Debug\net8.0\ref\Demo31App.dll

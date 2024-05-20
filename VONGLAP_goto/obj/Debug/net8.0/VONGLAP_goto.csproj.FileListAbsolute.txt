@@ -1,0 +1,15 @@
+D:\PRN212\VONGLAP_goto\bin\Debug\net8.0\VONGLAP_goto.exe
+D:\PRN212\VONGLAP_goto\bin\Debug\net8.0\VONGLAP_goto.deps.json
+D:\PRN212\VONGLAP_goto\bin\Debug\net8.0\VONGLAP_goto.runtimeconfig.json
+D:\PRN212\VONGLAP_goto\bin\Debug\net8.0\VONGLAP_goto.dll
+D:\PRN212\VONGLAP_goto\bin\Debug\net8.0\VONGLAP_goto.pdb
+D:\PRN212\VONGLAP_goto\obj\Debug\net8.0\VONGLAP_goto.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\VONGLAP_goto\obj\Debug\net8.0\VONGLAP_goto.AssemblyInfoInputs.cache
+D:\PRN212\VONGLAP_goto\obj\Debug\net8.0\VONGLAP_goto.AssemblyInfo.cs
+D:\PRN212\VONGLAP_goto\obj\Debug\net8.0\VONGLAP_goto.csproj.CoreCompileInputs.cache
+D:\PRN212\VONGLAP_goto\obj\Debug\net8.0\VONGLAP_goto.sourcelink.json
+D:\PRN212\VONGLAP_goto\obj\Debug\net8.0\VONGLAP_goto.dll
+D:\PRN212\VONGLAP_goto\obj\Debug\net8.0\refint\VONGLAP_goto.dll
+D:\PRN212\VONGLAP_goto\obj\Debug\net8.0\VONGLAP_goto.pdb
+D:\PRN212\VONGLAP_goto\obj\Debug\net8.0\VONGLAP_goto.genruntimeconfig.cache
+D:\PRN212\VONGLAP_goto\obj\Debug\net8.0\ref\VONGLAP_goto.dll

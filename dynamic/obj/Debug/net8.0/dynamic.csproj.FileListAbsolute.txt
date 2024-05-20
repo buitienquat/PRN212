@@ -1,0 +1,14 @@
+D:\PRN212\dynamic\bin\Debug\net8.0\dynamic.exe
+D:\PRN212\dynamic\bin\Debug\net8.0\dynamic.deps.json
+D:\PRN212\dynamic\bin\Debug\net8.0\dynamic.runtimeconfig.json
+D:\PRN212\dynamic\bin\Debug\net8.0\dynamic.dll
+D:\PRN212\dynamic\bin\Debug\net8.0\dynamic.pdb
+D:\PRN212\dynamic\obj\Debug\net8.0\dynamic.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\dynamic\obj\Debug\net8.0\dynamic.AssemblyInfoInputs.cache
+D:\PRN212\dynamic\obj\Debug\net8.0\dynamic.AssemblyInfo.cs
+D:\PRN212\dynamic\obj\Debug\net8.0\dynamic.csproj.CoreCompileInputs.cache
+D:\PRN212\dynamic\obj\Debug\net8.0\dynamic.dll
+D:\PRN212\dynamic\obj\Debug\net8.0\refint\dynamic.dll
+D:\PRN212\dynamic\obj\Debug\net8.0\dynamic.pdb
+D:\PRN212\dynamic\obj\Debug\net8.0\dynamic.genruntimeconfig.cache
+D:\PRN212\dynamic\obj\Debug\net8.0\ref\dynamic.dll

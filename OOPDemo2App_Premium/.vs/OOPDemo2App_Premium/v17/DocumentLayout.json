@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212\\OOPDemo2App_Premium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21182F-8947-43BA-849E-4ACBE41191E8}|OOPDemo2App_Premium.csproj|d:\\prn212\\oopdemo2app_premium\\dataaccessobjectslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D21182F-8947-43BA-849E-4ACBE41191E8}|OOPDemo2App_Premium.csproj|solutionrelative:dataaccessobjectslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21182F-8947-43BA-849E-4ACBE41191E8}|OOPDemo2App_Premium.csproj|d:\\prn212\\oopdemo2app_premium\\businessobjectslayer\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D21182F-8947-43BA-849E-4ACBE41191E8}|OOPDemo2App_Premium.csproj|solutionrelative:businessobjectslayer\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21182F-8947-43BA-849E-4ACBE41191E8}|OOPDemo2App_Premium.csproj|d:\\prn212\\oopdemo2app_premium\\businessobjectslayer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D21182F-8947-43BA-849E-4ACBE41191E8}|OOPDemo2App_Premium.csproj|solutionrelative:businessobjectslayer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\PRN212\\OOPDemo2App_Premium\\DataAccessObjectsLayer\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjectsLayer\\ProductDAO.cs",
+              "ToolTip": "D:\\PRN212\\OOPDemo2App_Premium\\DataAccessObjectsLayer\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessObjectsLayer\\ProductDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:48:47.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\PRN212\\OOPDemo2App_Premium\\BusinessObjectsLayer\\Category.cs",
+              "RelativeDocumentMoniker": "BusinessObjectsLayer\\Category.cs",
+              "ToolTip": "D:\\PRN212\\OOPDemo2App_Premium\\BusinessObjectsLayer\\Category.cs",
+              "RelativeToolTip": "BusinessObjectsLayer\\Category.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:42:57.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\PRN212\\OOPDemo2App_Premium\\BusinessObjectsLayer\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObjectsLayer\\Product.cs",
+              "ToolTip": "D:\\PRN212\\OOPDemo2App_Premium\\BusinessObjectsLayer\\Product.cs",
+              "RelativeToolTip": "BusinessObjectsLayer\\Product.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:40:27.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

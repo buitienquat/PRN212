@@ -1,0 +1,15 @@
+D:\PRN212\homework_if_else\bin\Debug\net8.0\homework_if_else.exe
+D:\PRN212\homework_if_else\bin\Debug\net8.0\homework_if_else.deps.json
+D:\PRN212\homework_if_else\bin\Debug\net8.0\homework_if_else.runtimeconfig.json
+D:\PRN212\homework_if_else\bin\Debug\net8.0\homework_if_else.dll
+D:\PRN212\homework_if_else\bin\Debug\net8.0\homework_if_else.pdb
+D:\PRN212\homework_if_else\obj\Debug\net8.0\homework_if_else.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\homework_if_else\obj\Debug\net8.0\homework_if_else.AssemblyInfoInputs.cache
+D:\PRN212\homework_if_else\obj\Debug\net8.0\homework_if_else.AssemblyInfo.cs
+D:\PRN212\homework_if_else\obj\Debug\net8.0\homework_if_else.csproj.CoreCompileInputs.cache
+D:\PRN212\homework_if_else\obj\Debug\net8.0\homework_if_else.sourcelink.json
+D:\PRN212\homework_if_else\obj\Debug\net8.0\homework_if_else.dll
+D:\PRN212\homework_if_else\obj\Debug\net8.0\refint\homework_if_else.dll
+D:\PRN212\homework_if_else\obj\Debug\net8.0\homework_if_else.pdb
+D:\PRN212\homework_if_else\obj\Debug\net8.0\homework_if_else.genruntimeconfig.cache
+D:\PRN212\homework_if_else\obj\Debug\net8.0\ref\homework_if_else.dll

@@ -1,0 +1,15 @@
+D:\PRN212\Swich_case\bin\Debug\net8.0\Swich_case.exe
+D:\PRN212\Swich_case\bin\Debug\net8.0\Swich_case.deps.json
+D:\PRN212\Swich_case\bin\Debug\net8.0\Swich_case.runtimeconfig.json
+D:\PRN212\Swich_case\bin\Debug\net8.0\Swich_case.dll
+D:\PRN212\Swich_case\bin\Debug\net8.0\Swich_case.pdb
+D:\PRN212\Swich_case\obj\Debug\net8.0\Swich_case.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Swich_case\obj\Debug\net8.0\Swich_case.AssemblyInfoInputs.cache
+D:\PRN212\Swich_case\obj\Debug\net8.0\Swich_case.AssemblyInfo.cs
+D:\PRN212\Swich_case\obj\Debug\net8.0\Swich_case.csproj.CoreCompileInputs.cache
+D:\PRN212\Swich_case\obj\Debug\net8.0\Swich_case.sourcelink.json
+D:\PRN212\Swich_case\obj\Debug\net8.0\Swich_case.dll
+D:\PRN212\Swich_case\obj\Debug\net8.0\refint\Swich_case.dll
+D:\PRN212\Swich_case\obj\Debug\net8.0\Swich_case.pdb
+D:\PRN212\Swich_case\obj\Debug\net8.0\Swich_case.genruntimeconfig.cache
+D:\PRN212\Swich_case\obj\Debug\net8.0\ref\Swich_case.dll

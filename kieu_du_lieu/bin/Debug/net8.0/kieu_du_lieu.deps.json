@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kieu_du_lieu/1.0.0": {
+        "runtime": {
+          "kieu_du_lieu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kieu_du_lieu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

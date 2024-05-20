@@ -1,0 +1,14 @@
+D:\PRN212\Cau_truc_lenh_co_ban\bin\Debug\net8.0\Cau_truc_lenh_co_ban.exe
+D:\PRN212\Cau_truc_lenh_co_ban\bin\Debug\net8.0\Cau_truc_lenh_co_ban.deps.json
+D:\PRN212\Cau_truc_lenh_co_ban\bin\Debug\net8.0\Cau_truc_lenh_co_ban.runtimeconfig.json
+D:\PRN212\Cau_truc_lenh_co_ban\bin\Debug\net8.0\Cau_truc_lenh_co_ban.dll
+D:\PRN212\Cau_truc_lenh_co_ban\bin\Debug\net8.0\Cau_truc_lenh_co_ban.pdb
+D:\PRN212\Cau_truc_lenh_co_ban\obj\Debug\net8.0\Cau_truc_lenh_co_ban.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Cau_truc_lenh_co_ban\obj\Debug\net8.0\Cau_truc_lenh_co_ban.AssemblyInfoInputs.cache
+D:\PRN212\Cau_truc_lenh_co_ban\obj\Debug\net8.0\Cau_truc_lenh_co_ban.AssemblyInfo.cs
+D:\PRN212\Cau_truc_lenh_co_ban\obj\Debug\net8.0\Cau_truc_lenh_co_ban.csproj.CoreCompileInputs.cache
+D:\PRN212\Cau_truc_lenh_co_ban\obj\Debug\net8.0\Cau_truc_lenh_co_ban.dll
+D:\PRN212\Cau_truc_lenh_co_ban\obj\Debug\net8.0\refint\Cau_truc_lenh_co_ban.dll
+D:\PRN212\Cau_truc_lenh_co_ban\obj\Debug\net8.0\Cau_truc_lenh_co_ban.pdb
+D:\PRN212\Cau_truc_lenh_co_ban\obj\Debug\net8.0\Cau_truc_lenh_co_ban.genruntimeconfig.cache
+D:\PRN212\Cau_truc_lenh_co_ban\obj\Debug\net8.0\ref\Cau_truc_lenh_co_ban.dll
