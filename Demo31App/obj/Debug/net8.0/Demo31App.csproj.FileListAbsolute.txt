@@ -12,3 +12,4 @@ D:\PRN212\Demo31App\obj\Debug\net8.0\refint\Demo31App.dll
 D:\PRN212\Demo31App\obj\Debug\net8.0\Demo31App.pdb
 D:\PRN212\Demo31App\obj\Debug\net8.0\Demo31App.genruntimeconfig.cache
 D:\PRN212\Demo31App\obj\Debug\net8.0\ref\Demo31App.dll
+D:\PRN212\Demo31App\obj\Debug\net8.0\Demo31App.sourcelink.json

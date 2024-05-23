@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212\\Demo31Appp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50319F89-1F88-4020-B217-33CB5CD5E537}|Demo31Appp.csproj|d:\\prn212\\demo31appp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50319F89-1F88-4020-B217-33CB5CD5E537}|Demo31Appp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50319F89-1F88-4020-B217-33CB5CD5E537}|Demo31Appp.csproj|d:\\prn212\\demo31appp\\dataaccessobjects\\airlinedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50319F89-1F88-4020-B217-33CB5CD5E537}|Demo31Appp.csproj|solutionrelative:dataaccessobjects\\airlinedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50319F89-1F88-4020-B217-33CB5CD5E537}|Demo31Appp.csproj|d:\\prn212\\demo31appp\\serviceslayer\\iairlineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50319F89-1F88-4020-B217-33CB5CD5E537}|Demo31Appp.csproj|solutionrelative:serviceslayer\\iairlineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AirlineDAO.cs",
+              "DocumentMoniker": "D:\\PRN212\\Demo31Appp\\DataAccessObjects\\AirlineDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\AirlineDAO.cs",
+              "ToolTip": "D:\\PRN212\\Demo31Appp\\DataAccessObjects\\AirlineDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\AirlineDAO.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwCwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:59:57.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAirlineService.cs",
+              "DocumentMoniker": "D:\\PRN212\\Demo31Appp\\ServicesLayer\\IAirlineService.cs",
+              "RelativeDocumentMoniker": "ServicesLayer\\IAirlineService.cs",
+              "ToolTip": "D:\\PRN212\\Demo31Appp\\ServicesLayer\\IAirlineService.cs",
+              "RelativeToolTip": "ServicesLayer\\IAirlineService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:59:49.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\Demo31Appp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PRN212\\Demo31Appp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:57:27.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

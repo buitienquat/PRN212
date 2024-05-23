@@ -32,7 +32,7 @@ namespace Demo31App
             int userchoice = 0;
             int ID = 0; // Khởi tạo giá trị cho biến ID
             string Name = "", Code = "", Country = ""; // Khởi tạo giá trị cho các biến chuỗi
-            Airline airline = null; // Khởi tạo giá trị cho biến airline
+            Airline bay = null; // Khởi tạo giá trị cho biến airline
             do
             {
                 userchoice = GetUserChoice();
@@ -40,9 +40,9 @@ namespace Demo31App
                 switch (userchoice)
                 {
                     case 1: showAllAriline(); break;
-                    case 2: EnterAriline(); AddAriline(airline); showAllAriline(); break;
-                    case 3: EnterAriline(); UpdateAriline(airline); showAllAriline(); break;
-                    case 4: EnterAriline(); DeleteAriline(airline); showAllAriline(); break;
+                    case 2: EnterAriline(); AddAriline(bay); showAllAriline(); break;
+                    case 3: EnterAriline(); UpdateAriline(bay); showAllAriline(); break;
+                    case 4: EnterAriline(); DeleteAriline(bay); showAllAriline(); break;
                     case 5: EnterAriline(); SearchByArilineId(ID); break;
                 }
             } while (userchoice > 0 && userchoice < 6);

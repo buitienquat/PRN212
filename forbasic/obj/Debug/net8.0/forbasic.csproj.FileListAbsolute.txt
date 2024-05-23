@@ -1,0 +1,15 @@
+D:\PRN212\forbasic\obj\Debug\net8.0\forbasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\forbasic\obj\Debug\net8.0\forbasic.AssemblyInfoInputs.cache
+D:\PRN212\forbasic\obj\Debug\net8.0\forbasic.AssemblyInfo.cs
+D:\PRN212\forbasic\obj\Debug\net8.0\forbasic.csproj.CoreCompileInputs.cache
+D:\PRN212\forbasic\obj\Debug\net8.0\forbasic.sourcelink.json
+D:\PRN212\forbasic\bin\Debug\net8.0\forbasic.exe
+D:\PRN212\forbasic\bin\Debug\net8.0\forbasic.deps.json
+D:\PRN212\forbasic\bin\Debug\net8.0\forbasic.runtimeconfig.json
+D:\PRN212\forbasic\bin\Debug\net8.0\forbasic.dll
+D:\PRN212\forbasic\bin\Debug\net8.0\forbasic.pdb
+D:\PRN212\forbasic\obj\Debug\net8.0\forbasic.dll
+D:\PRN212\forbasic\obj\Debug\net8.0\refint\forbasic.dll
+D:\PRN212\forbasic\obj\Debug\net8.0\forbasic.pdb
+D:\PRN212\forbasic\obj\Debug\net8.0\forbasic.genruntimeconfig.cache
+D:\PRN212\forbasic\obj\Debug\net8.0\ref\forbasic.dll
